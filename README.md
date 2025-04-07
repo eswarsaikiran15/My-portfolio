@@ -37,4 +37,4 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eswarsaikiran15/portfolio.git
+   git clone https://github.com/eswarsaikiran15/My-portfolio.git
